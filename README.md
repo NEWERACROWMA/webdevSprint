@@ -8,9 +8,3 @@
 - Marcos Vinicius da Silva Costa, RM: 555490
 - Ricardo Cerazi di Tilia, RM: 555155
 - Caio Felipe de Lima Bezerra, RM: 556197
-
-## Estrutura do Projeto
-
-- `index.html`: Página principal.
-- `style.css`: Estilos para a página.
-- `script.js`: Script JavaScript.
