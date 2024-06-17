@@ -47,6 +47,6 @@ const alertButton = document.getElementById("alertButton");
 
 if (alertButton) {
     alertButton.addEventListener("click", function() {
-        alert("Esse é um alerta!");
+        alert("Seus dados são criptografados e protegidos para uma melhor experiência! ");
     });
 }
