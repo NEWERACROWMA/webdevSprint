@@ -1,4 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
+    document.body.classList.add('no-scroll');
+    
     let slideIndex = 0;
     showSlides();
 
@@ -10,8 +12,6 @@ document.addEventListener("DOMContentLoaded", function() {
         slideIndex++;
         if (slideIndex > slides.length) { slideIndex = 1; }
         slides[slideIndex - 1].classList.add('active');
-        setTimeout(showSlides, 3000); 
+        setTimeout(showSlides, 3000);
     }
-
-
 });
